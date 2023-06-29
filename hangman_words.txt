@@ -1,0 +1,6 @@
+Objectives: To investigate the relationship between dietary intake, meal timing  sleep  elite male
+Australian football players Design: Prospective cohort study Methods: Sleep and dietary intake  assessed elite male Australian Football League players
+consecutive days preseason Sleep was examined using wrist activity monitors  sleep diaries
+Dietary intake  analysed using  smartphone application MealLogger FoodWorks. Generalised
+linear mixed models examined associations between diet total daily evening energy
+protein carbohydrate sugar fat intake sleep sleep efficiency wake sleep onset  sleep onset latency
